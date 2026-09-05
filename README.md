@@ -54,7 +54,7 @@ MovieInsight/
 ├── README.md            # Project documentation
 ├── package.json         # Project dependencies and scripts
 └── package-lock.json    # Dependency lock file
-
+```
 ---
 
 ## 🚀 Getting Started

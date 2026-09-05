@@ -4,7 +4,7 @@ MovieInsight is a modern web application that helps users explore movies, view d
 
 ---
 
-🌐 **Live Demo**
+## 🌐 Live Demo
 🔗[MovieInsight on Netlify](https://silly-faloodeh-220392.netlify.app/)  
 
 ---

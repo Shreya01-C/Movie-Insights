@@ -1,6 +1,5 @@
 import React from 'react'
 import {useSelector } from 'react-redux/es/hooks/useSelector'
-
 import './style.scss'
 
 const Genres = ({data}) => {

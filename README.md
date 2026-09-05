@@ -2,7 +2,10 @@
 
 MovieInsight is a modern web application that helps users explore movies, view details, and discover trending, popular, and top‑rated films. It provides a clean interface, dynamic searches for cast, and recommendations.
 
-🌐 **Live Demo**: [MovieInsight on Netlify](https://silly-faloodeh-220392.netlify.app/)  
+---
+
+🌐 **Live Demo**:
+[MovieInsight on Netlify](https://silly-faloodeh-220392.netlify.app/)  
 ---
 
 ## ✨ Features
@@ -23,6 +26,7 @@ MovieInsight is a modern web application that helps users explore movies, view d
 ---
 
 ## 📂 Project Structure
+```plaintext
 MovieInsight/
 ├── public/
 │   ├── favicon.ico

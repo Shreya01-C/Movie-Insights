@@ -6,7 +6,7 @@
     flex-shrink: 0;
     @include md {
         width: calc(25% - 15px);
-    }
+    } 
     @include lg {
         width: calc(20% - 16px);
     }

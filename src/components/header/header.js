@@ -3,7 +3,6 @@ import { HiOutlineSearch } from "react-icons/hi";
 import { VscChromeClose } from "react-icons/vsc";
 import { SlMenu } from "react-icons/sl";
 import { useNavigate, useLocation } from "react-router-dom";
-
 import "./style.scss";
 
 import ContentWrapper from "../contentWrapper/ContentWrapper";

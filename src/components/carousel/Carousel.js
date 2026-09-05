@@ -1,5 +1,5 @@
 import React, { useRef } from "react";
-import {
+import { 
   BsFillArrowLeftCircleFill,
   BsFillArrowRightCircleFill,
 } from "react-icons/bs";

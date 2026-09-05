@@ -1,4 +1,4 @@
-# 🎬 MovieInsight
+#  MovieInsight 🎬
 
 MovieInsight is a modern web application that helps users explore movies, view details, and discover trending, popular, and top‑rated films. It provides a clean interface, dynamic searches for cast, and recommendations.
 
